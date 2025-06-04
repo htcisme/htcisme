@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm htcisme</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/htcisme?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="htcisme's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/htcisme?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://web.facebook.com/oquangtrung.24415/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/oquangtrung.24415/" height="30" width="40" /></a>
